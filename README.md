@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**isabayramov2903/isabayramov2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hi align="center">Привет, я Иса </h1>
+<h3 align="center">Data engenier </h3>
 
 Here are some ideas to get you started:
 
