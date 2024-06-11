@@ -1,5 +1,5 @@
-<h1 align="center">Привет, я Иса </h1>
-<h3 align="center">Data engenier </h3>
+<h1 align="center">Привет, я Иса</h1>
+<h3 align="center">Python Developer\DE</h3>
 
 Here are some ideas to get you started:
 
