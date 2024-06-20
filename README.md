@@ -4,7 +4,8 @@
 <h1 align="center">Hi there, I'm Isa</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=29AEF7&center=true&vCenter=true&random=false&width=300&height=30&lines=Data+Engineer+from+Moscow" alt="Typing SVG" /></a></h3>
 
-[![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)   
+[![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?isa-bay=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning data science, web3, blockchain
