@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💬 Know about my experience CV
 - 📫 Reach me by Telegram, email
 -->
-[![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)
+  [![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)
 -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
