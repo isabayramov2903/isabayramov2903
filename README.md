@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>&nbsp;
   </a>
 </div>
-[![codewars](https://www.codewars.com/users/isa-bay/badges/large)](https://www.codewars.com/users/isa-bay)  
+[![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/large)](https://www.codewars.com/users/Isa%20Bayramov)  
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 Here are some ideas to get you started:
