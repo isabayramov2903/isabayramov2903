@@ -10,7 +10,5 @@ Here are some ideas to get you started:
 - ⚡ In my free time, I solve problems on LeetCode and 
 - 💬 Know about my experience CV
 - 📫 Reach me by Telegram, email  
-
-  [![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)  
-
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
+[![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)  
+![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
