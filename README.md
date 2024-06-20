@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>&nbsp;
   </a>
 </div>
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
+[![codewars](https://www.codewars.com/users/isa-bay/badges/large)](https://www.codewars.com/users/isa-bay)   
 
 Here are some ideas to get you started:
 
