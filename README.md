@@ -16,8 +16,6 @@
 </div>
 [![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/large)](https://www.codewars.com/users/Isa%20Bayramov)  
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning data science, web3, blockchain
