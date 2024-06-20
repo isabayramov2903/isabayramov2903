@@ -3,12 +3,11 @@
 </div>
 <h1 align="center">Привет, я Иса</h1>
 <h3 align="center">Python Developer\DE  from Moscow</h3>
-
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
   </a>
-  <a href="your-youtube-URL">
+  <a href="your-youtube -URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>&nbsp;
   </a>
   <a href="your-twitter-URL">
@@ -19,8 +18,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning data science, web3, blockchain
-- 🤔 I’m looking for help with ...
+- ⚡ In my free time, I solve problems on LeetCode and 
 - 💬 Know about my experience CV
 - 📫 Reach me by Telegram, email
-- ⚡ Fun fact: ...
 -->
