@@ -13,8 +13,8 @@
     </a>
   </a>
 </div>
-[![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/large)](https://www.codewars.com/users/Isa%20Bayramov)  
 
+[![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/large)](https://www.codewars.com/users/Isa%20Bayramov)   
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning data science, web3, blockchain
