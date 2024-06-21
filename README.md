@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning data science, web3, blockchain
-- ⚡ In my free time, I solve problems on LeetCode and 
+- ⚡ In my free time, I solve problems on LeetCode and do fitness
 - 💬 Know about my experience CV
 - 📫 Reach me by Telegram, email  
 ---  
