@@ -3,10 +3,9 @@
 </div>
 <h2 align="center">Hi there, I'm Isa</h2>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=500&center=true&vCenter=true&random=false&width=280&height=25&lines=Data+Engineer+from+Moscow" alt="Typing SVG" /></a></h3>
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning data science, web3, blockchain
-- ⚡ In my free time, I solve problems on LeetCode and do fitness
+- ⚡ In my free time, I solve problems on LeetCode and codewars
 - 💬 Know about my experience [**CV**]()
 - 📫 Reach me by [**Telegram**](), [**email**]()  
 ---  
